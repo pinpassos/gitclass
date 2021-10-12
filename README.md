@@ -6,5 +6,7 @@
 - [x] Você adiciona nosvas funcionalidades ao seu projeto em produção
 - [x] Você quer deletar a branch da nova funcionaliadde, depois de aplicar em seu projeto
 - [x] Você quer colocar seu projeto na nuvem
-- [] Você vai pegar um trabalho já iniciado para trabalhar com o time
-- [] Você precisa resolver um conflito
+- [x] Você vai pegar um trabalho já iniciado para trabalhar com o time
+- [x] Você precisa resolver um conflito
+- [x] Antes de enviar a resolução precisamos atualizar o projeto local
+- [] Você precisa voltar um arquivo para determinado momento da linha do tempo
