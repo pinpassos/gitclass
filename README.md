@@ -9,4 +9,5 @@
 - [x] Você vai pegar um trabalho já iniciado para trabalhar com o time
 - [x] Você precisa resolver um conflito
 - [x] Antes de enviar a resolução precisamos atualizar o projeto local
-- [] Você precisa voltar um arquivo para determinado momento da linha do tempo
+- [x] Você precisa voltar um arquivo para determinado momento da linha do tempo
+- [x] Projeto finalizado
